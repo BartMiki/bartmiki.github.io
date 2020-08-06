@@ -8,6 +8,7 @@ permalink: /about
 
 My name is Bartosz Mikulski. I work as Data Scientist at [Deep.BI](https://www.deep.bi/). I study *Intelligent Decision Support System* at Poznań University of Technology.
 
+
 ## What I like
 
 I hope for this blog to be a collection of topics I enjoy the most. To name a few:
