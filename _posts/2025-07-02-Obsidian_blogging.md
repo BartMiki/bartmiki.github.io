@@ -8,3 +8,6 @@ categories: n8n automation obsidian
 This is just a demo blog post with extra update
 
 Multi line!
+
+Picture:
+![[exampleimage.png]]
