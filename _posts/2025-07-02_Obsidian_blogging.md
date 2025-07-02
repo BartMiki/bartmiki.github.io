@@ -5,4 +5,4 @@ date:   2025-07-02 10:00:00 +0100
 categories: n8n automation obsidian
 ---
 
-This is just a demo blog post
+This is just a demo blog post with update
